@@ -17,5 +17,5 @@ pip install -r requirements.txt
 ```
 
 ```bash
-python3 stream.py --flagfile ./flagfiles/E6D2 LARGE Batch.txt  --name rnnt-m-bpe  --model_name english_43_medium.pt  --step_n_frame 2
+python3 stream.py --flagfile ./flagfiles/E6D2 LARGE Batch.txt  --name rnnt-m-bpe  --model_name english_43_medium.pt --path 3729-6852-0035.flac
 ```
